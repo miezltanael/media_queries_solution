@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 1rem 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+
+  background: url("/images/pexels-photo-1519088.jpeg") no-repeat center
+    center/cover;
+  height: 100vh;
+  color: #fff;
+  padding: 32px;
+  padding-bottom: 15px;
+}
+
+h1 {
+  display: block;
+  margin: 8px;
+  font-size: 3rem;
+}
+h3 {
+  font-size: 3rem;
+}
+.btn {
+  display: inline-block;
+  background: #fff;
+  color: red;
+}
